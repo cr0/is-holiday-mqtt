@@ -1,0 +1,5 @@
+.venv/
+cache/
+__pycache__/
+*.code-workspace
+.DS_Store

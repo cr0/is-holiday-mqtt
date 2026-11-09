@@ -1,0 +1,7 @@
+.git
+.github
+.venv
+cache
+k8s
+job.yaml
+*.code-workspace
